@@ -81,6 +81,8 @@ My primary interest lies in **AI Research & Development**. I am constantly explo
   <a href="https://www.kaggle.com/maneeshasathsaram"><img src="https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 </p>
 
+---
+
 
 ### 📊 GitHub Stats & Contributions
 
