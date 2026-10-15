@@ -31,15 +31,6 @@ My primary interest lies in **AI Research & Development**. I am constantly explo
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=maneesha-sathsara&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
 ### 🛠️ Advanced Tech Stack
 
 <details>
@@ -90,7 +81,6 @@ My primary interest lies in **AI Research & Development**. I am constantly explo
   <a href="https://www.kaggle.com/maneeshasathsaram"><img src="https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 </p>
 
----
 
 ### 📊 GitHub Stats & Contributions
 
