@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://maneeshasathsara.me">
     <!-- ඔයාගේ Animated GIF ලෝගෝ එක මෙතනට දාන්න -->
-    <img src="https://raw.githubusercontent.com/maneesha-sathsara/maneesha-sathsara/main/your-brain-logo.gif" width="120" alt="Brain Logo" />
+    <img src="https://github.com/maneesha-sathsara/maneesha-sathsara/blob/main/brain-logo.gif?raw=true" width="120" alt="Brain Logo" />
   </a>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=maneesha-sathsara&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
