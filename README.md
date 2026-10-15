@@ -84,12 +84,11 @@ My primary interest lies in **AI Research & Development**. I am constantly explo
 
 ### 🌐 Let's Connect
 <p align="center">
-  <a href="https://maneeshasathsara.me"><img src="https://img.shields.io/badge/Portfolio-maneeshasathsara.me-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://maneeshasathsara.me"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/maneesha-sathsara-02467938b"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:maneeshasathsaram@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.kaggle.com/maneeshasathsaram"><img src="https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 </p>
-
 ---
 
 ### 📊 GitHub Stats & Contributions
