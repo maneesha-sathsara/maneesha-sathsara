@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://maneeshasathsara.me">
-    <!-- ඔයා හදාගන්න Animated GIF ලෝගෝ එකේ ලින්ක් එක මෙතන දාන්න -->
+    <!-- ඔයාගේ Animated GIF ලෝගෝ එක මෙතනට දාන්න -->
     <img src="https://raw.githubusercontent.com/maneesha-sathsara/maneesha-sathsara/main/your-brain-logo.gif" width="120" alt="Brain Logo" />
   </a>
   <br><br>
@@ -34,7 +34,7 @@ My primary interest lies in **AI Research & Development**. I am constantly explo
 ### 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=maneeshasathsaradev&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=maneesha-sathsara&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -89,6 +89,7 @@ My primary interest lies in **AI Research & Development**. I am constantly explo
   <a href="mailto:maneeshasathsaram@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.kaggle.com/maneeshasathsaram"><img src="https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 </p>
+
 ---
 
 ### 📊 GitHub Stats & Contributions
